@@ -1,3 +1,10 @@
-# Resume
+# Projects Profile
+<p><a href="https://invest41.github.io/AlaoDavid.github.io/">
+ PROJECTS PROFILE 
+ </a></p>
 
-> A repository of my Resumé
+# Internship Certification
+![Internship](https://github.com/invest41/Resume/blob/main/IMG_9327.jpeg)
+
+# Resumé
+![CV](https://github.com/invest41/Resume/blob/main/IMG_9326.jpeg)
