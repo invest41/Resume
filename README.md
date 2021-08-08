@@ -13,4 +13,4 @@
 ![Internship](https://github.com/invest41/Resume/blob/main/IMG_9327.jpeg)
 
 # Resumé
-![CV](https://github.com/invest41/Resume/blob/main/6F771705-98AF-470A-AE08-497F628077C5.jpeg)
+[<img src="https://github.com/invest41/Resume/blob/main/6F771705-98AF-470A-AE08-497F628077C5.jpeg" />](https://github.com/invest41/Resume/blob/main/David's%20Resume.pdf)
